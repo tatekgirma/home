@@ -1,2 +1,3 @@
 Im from wrting this from CLI
 Im from wrting this from CLI
+After I pushed every thing to origin
